@@ -7,7 +7,7 @@
 
 ## 👩‍💻 About Me
 
-- 🐱 I’m working on **MERN Stack Projects and DSA** 
+- 🐱 I’m working on **MERN Stack Projects and Practice DSA** 
 - 📫 Reach out to me at my **<a href="mailto:deenurajak3@gmail.com">Email</a>** 
 
  
