@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Deendayal Rajak!
 
 [![Twitter Follow](https://img.shields.io/badge/follow-%40deenu_z-1DA1F2?logo=twitter&style=social)](https://twitter.com/deenu_z)
-[![Linkedin: Deendayal Rajak](https://img.shields.io/badge/-Deendayal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/deendayalrajak/)](www.linkedin.com/in/deendayalrajak/)
+[![Linkedin: Deendayal Rajak](https://img.shields.io/badge/-Deendayal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/deendayalrajak/)](https://www.linkedin.com/in/deendayalrajak/)
 ![GitHub followers](https://img.shields.io/github/followers/deenuz?label=Follow&style=social)
 
 
